@@ -1,0 +1,9 @@
+{"_id":{"$oid":"60c0cdca09b5ee16a40118fb"},"water_line_compatible":false,"product_type":"COFFEE_MACHINE_SMALL","model":"base","sku":"CM001","__v":0}
+{"_id":{"$oid":"60c0cfe86dae8b0b6cab9385"},"water_line_compatible":false,"product_type":"COFFEE_MACHINE_SMALL","model":"premium","sku":"CM002","__v":0}
+{"_id":{"$oid":"60c0d0355415d70c70cdef21"},"water_line_compatible":true,"product_type":"COFFEE_MACHINE_SMALL","model":"deluxe","sku":"CM003","__v":0}
+{"_id":{"$oid":"60c0d08179e5352bc85fcfa1"},"water_line_compatible":false,"product_type":"COFFEE_MACHINE_LARGE","model":"base","sku":"CM101","__v":0}
+{"_id":{"$oid":"60c0d0bda255971cc4ca9a88"},"water_line_compatible":true,"product_type":"COFFEE_MACHINE_LARGE","model":"premium","sku":"CM102","__v":0}
+{"_id":{"$oid":"60c0d0dbbabc9806a4fbc47d"},"water_line_compatible":true,"product_type":"COFFEE_MACHINE_LARGE","model":"deluxe","sku":"CM103","__v":0}
+{"_id":{"$oid":"60c0d119dec7c925a806d2e6"},"water_line_compatible":true,"product_type":"ESPRESSO_MACHINE","model":"deluxe","sku":"EM003","__v":0}
+{"_id":{"$oid":"60c0d13e12e7422bd06935ca"},"water_line_compatible":false,"product_type":"ESPRESSO_MACHINE","model":"premium","sku":"EM002","__v":0}
+{"_id":{"$oid":"60c0d14ec3b9072850f679b1"},"water_line_compatible":false,"product_type":"ESPRESSO_MACHINE","model":"base","sku":"EM001","__v":0}
