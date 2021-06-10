@@ -28,7 +28,7 @@ Time estimation  in cairo time <br />
  uploding code to github and deploying it on heroku from 1 to 2 AM <br />
 Editing ReadMe file for the desired requirments from 2 to 3 AM <br />
 
-
+---------------------------------------------------------------------
 1- All large machines https://coffee-shop-machine.herokuapp.com/api/coffee-machine?product_type=large
  
 ![screencapture-coffee-shop-machine-herokuapp-api-coffee-machine-2021-06-10-02_12_31](https://user-images.githubusercontent.com/20096361/121445346-8e504c00-c991-11eb-8880-d8b13f7151b0.png)
