@@ -16,9 +16,11 @@ I create a filter for product type and coffee flavor to make it easier in writin
      COFFEE_FLAVOR_PSL->psl <br />
      COFFEE_FLAVOR_MOCHA->mocha <br />
      COFFEE_FLAVOR_HAZELNUT->hazelnut <br />
+ ------------------------------------------------------------------
+ Database link on mongoDB :
 
-
-
+https://cloud.mongodb.com/v2/60c11ff1f7255142aa3e215f#metrics/replicaSet/60c12237af9b751e98a59192/explorer/coffeeShop
+---------------------------------------------------------------------
 
 1- All large machines https://coffee-shop-machine.herokuapp.com/api/coffee-machine?product_type=large
  
