@@ -1,21 +1,21 @@
 # Coffee Shop
-I create a filter for product type and coffee flavor to make it easier in writing :
-   coffee machine   product_type
-  COFFEE_MACHINE_SMALL->small
-  COFFEE_MACHINE_LARGE->large
-  ESPRESSO_MACHINE->espresso
+I create a filter for product type and coffee flavor to make it easier in writing :<br />
+   coffee machine   product_type <br />
+  COFFEE_MACHINE_SMALL->small <br />
+  COFFEE_MACHINE_LARGE->large <br />
+  ESPRESSO_MACHINE->espresso <br />
   -------------------------------------------
-   coffee pod   product_type
-  COFFEE_POD_SMALL->small
-  COFFEE_POD_LARGE->large
-  ESPRESSO_POD->espresso
+   coffee pod   product_type <br />
+  COFFEE_POD_SMALL->small <br />
+  COFFEE_POD_LARGE->large <br />
+  ESPRESSO_POD->espresso <br />
   --------------------------------------------
-   coffee pod  coffee flavor
-     COFFEE_FLAVOR_VANILLA->vanilla
-     COFFEE_FLAVOR_CARAMEL->caramel
-     COFFEE_FLAVOR_PSL->psl
-     COFFEE_FLAVOR_MOCHA->mocha
-     COFFEE_FLAVOR_HAZELNUT->hazelnut
+   coffee pod  coffee flavor <br />
+     COFFEE_FLAVOR_VANILLA->vanilla <br />
+     COFFEE_FLAVOR_CARAMEL->caramel <br />
+     COFFEE_FLAVOR_PSL->psl <br />
+     COFFEE_FLAVOR_MOCHA->mocha <br />
+     COFFEE_FLAVOR_HAZELNUT->hazelnut <br />
 
 
 
