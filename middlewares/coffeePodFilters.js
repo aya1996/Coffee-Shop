@@ -5,7 +5,7 @@ module.exports = (req, res, next) => {
 
 
 
-    coffee_flavor = coffee_flavor ? flavor.toLowerCase() : null
+    coffee_flavor = coffee_flavor ? coffee_flavor.toLowerCase() : null
 
 
     switch (coffee_flavor) {
