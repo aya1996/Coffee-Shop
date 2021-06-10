@@ -1,4 +1,25 @@
 # Coffee Shop
+I create a filter for product type and coffee flavor to make it easier in writing :
+   coffee machine   product_type
+  COFFEE_MACHINE_SMALL->small
+  COFFEE_MACHINE_LARGE->large
+  ESPRESSO_MACHINE->espresso
+  -------------------------------------------
+   coffee pod   product_type
+  COFFEE_POD_SMALL->small
+  COFFEE_POD_LARGE->large
+  ESPRESSO_POD->espresso
+  --------------------------------------------
+   coffee pod  coffee flavor
+     COFFEE_FLAVOR_VANILLA->vanilla
+     COFFEE_FLAVOR_CARAMEL->caramel
+     COFFEE_FLAVOR_PSL->psl
+     COFFEE_FLAVOR_MOCHA->mocha
+     COFFEE_FLAVOR_HAZELNUT->hazelnut
+
+
+
+
 1- All large machines https://coffee-shop-machine.herokuapp.com/api/coffee-machine?product_type=large
  
 ![screencapture-coffee-shop-machine-herokuapp-api-coffee-machine-2021-06-10-02_12_31](https://user-images.githubusercontent.com/20096361/121445346-8e504c00-c991-11eb-8880-d8b13f7151b0.png)
