@@ -23,10 +23,10 @@ https://cloud.mongodb.com/v2/60c11ff1f7255142aa3e215f#metrics/replicaSet/60c1223
 ---------------------------------------------------------------------
 Time estimation  in cairo time <br />
  start on wednesday at 4 PM <br />
- understanfing database and requirments takes 2 hours till 6 PM <br />
- implmenting the node JS code on VS code and database on mongoDB  from 7 PM to 11 PM <br />
- uploding code to github and deploying it on heroku from 1 to 2 AM <br />
-Editing ReadMe file for the desired requirments from 2 to 3 AM <br />
+ understanding database and requirements takes 2 hours till 6 PM <br />
+implementing the node JS code on VS code and database on mongoDB from 7 PM to 11 PM <br />
+ uploading code to github and deploying it on heroku from 1 to 2 AM <br />
+Editing ReadMe file for the desired requirements from 2 to 3 AM <br />
 
 ---------------------------------------------------------------------
 1- All large machines https://coffee-shop-machine.herokuapp.com/api/coffee-machine?product_type=large
